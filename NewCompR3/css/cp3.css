@@ -1,0 +1,27 @@
+body{
+
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10rem;
+
+}
+h1{
+    text-align: center;
+    color: #ff1100;
+
+}
+p{
+
+    font-size: 20px;
+    font-weight: bold;
+    border: 5px solid rgb(70, 8, 216);
+    color: #0c0101;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-indent: 20px;
+    text-align:left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    background-color: rgb(170, 170, 173);
+
+}
+
+
